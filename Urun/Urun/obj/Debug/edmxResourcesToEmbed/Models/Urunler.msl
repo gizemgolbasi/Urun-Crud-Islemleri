@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="UrunlerModelStoreContainer" CdmEntityContainer="UrunlerEntities">
+    <EntitySetMapping Name="Urunler">
+      <EntityTypeMapping TypeName="UrunlerModel.Urunler">
+        <MappingFragment StoreEntitySet="Urunler">
+          <ScalarProperty Name="UrunBarkod" ColumnName="UrunBarkod" />
+          <ScalarProperty Name="UrunAd" ColumnName="UrunAd" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

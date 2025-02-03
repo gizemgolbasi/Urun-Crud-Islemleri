@@ -1,0 +1,128 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/jquery-3.7.0.min.js"></script>
+
+<style>
+    .btn-sil {
+        margin-left: 5px;
+    }
+
+    .btn-guncelle{
+        margin-left: 5px;
+    }
+</style>
+
+
+
+
+
+
+<h2>Ürün Ajax İşlemleri</h2>
+<br />
+<div @*class="btn-group"*@ style="display: flex; margin-right:20px;">
+    <div class="col-md-1">
+        <button type="button" id="getListButton" class="btn btn-outline-primary">Listele</button>
+    </div>
+    <br />
+    <div class="col-md-11">
+        <button class="btn btn-outline-primary" id="btnEkle">Ekle</button>
+    </div>
+    
+</div>
+<br />
+<br />
+
+<div id="productList">
+    @*buraya ürünler listelenecek*@
+</div>
+<div id="productCode">
+    @*buraya ürün koduna göre gelecek*@
+</div>
+
+<div id="addProductContainer"></div>
+<div id="addProductContainer1"></div>
+
+<script>
+
+   
+  
+
+
+    $("#getListButton").click(function () {
+        $.ajax({
+            contentType: "application/json",
+            type: "GET",
+            dataType: "JSON",
+            url: "/Urun/GetList",
+            success: function (response) {
+                var html = "<table class='table table-bordered'> <tr><th> Ürün Adı</th>  <th> Ürün Barkod</th> <th> Sil </th> <th> Güncelle </th></tr>";
+                $.each(response, (index, value) => {
+                    html += `<tr>
+                            <td>${value.UrunAd}</td>
+                            <td>${value.UrunBarkod}</td>
+                            <td><button data-id="${value.Id}" class="btn btn-danger btn-sil">Sil</button></td>
+                            <td><button data-id="${value.Id}" class="btn btn-primary btn-guncelle">Güncelle</button></td>
+                         </tr>`;
+                });
+                html += "</table>";
+                $("#productList").html(html);
+            }
+        });
+    });
+
+    $(document).on('click', '.btn-sil', function () {
+        var id = $(this).data('id');
+       /* alert(id);*/     
+        $.ajax({
+            url: "/Urun/Delete", 
+            type: "POST",
+            data: JSON.stringify({ id: id }),
+            contentType: "application/json;charset=utf-8",
+            success: function (response) {
+                if (response.success) {
+                    alert(response.message);
+                    $("#getListButton").click(); 
+                } else {
+                    alert("Silme işlemi başarısız: " + response.message);
+                }
+            },
+            error: function () {
+                alert("Bir hata oluştu.");
+            }
+        });
+       
+    });
+
+
+
+    $(document).on('click', '.btn-guncelle', function () {
+        var id = $(this).data("id");
+       /* alert(id);*/
+        debugger;
+        $.ajax({
+            url: "/Urun/UpdateProduct",
+            data: { "id": id },
+            type: "GET",
+            success: function (response) {
+                $("#addProductContainer1").html(response);
+                $("#editModal").modal("show");
+            }
+        })
+        
+    });
+
+     
+    $("#btnEkle").click(function () {
+        $.ajax({
+            url: "/Urun/AddWriterPartial",
+            type: "GET",
+            success: function (response) {
+                $("#addProductContainer").html(response);
+                $("#productModal").modal("show");
+            }
+        })
+    })
+
+</script>

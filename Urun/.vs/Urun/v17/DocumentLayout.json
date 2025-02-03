@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|c:\\users\\gizem g\u00F6lba\u015F\u0131\\source\\repos\\urun\\urun\\views\\urun\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|solutionrelative:urun\\views\\urun\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\urun\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|solutionrelative:urun\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\urun\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|solutionrelative:urun\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\urun\\views\\urun\\_addproductpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|solutionrelative:urun\\views\\urun\\_addproductpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\urun\\models\\urunler.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|solutionrelative:urun\\models\\urunler.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\urun\\models\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|solutionrelative:urun\\models\\urunler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\urun\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|solutionrelative:urun\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\urun\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8300BAE5-A272-42FA-8636-15646B4718EF}|Urun\\Urun.csproj|solutionrelative:urun\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Urunler.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Models\\Urunler.Context.tt",
+              "RelativeDocumentMoniker": "Urun\\Models\\Urunler.Context.tt",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Models\\Urunler.Context.tt",
+              "RelativeToolTip": "Urun\\Models\\Urunler.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-14T20:58:46.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "Urun\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "Urun\\Controllers\\UrunController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwFQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T13:02:23.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "Urun\\Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "Urun\\Views\\Urun\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAGUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T13:02:37.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Urunler.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Models\\Urunler.cs",
+              "RelativeDocumentMoniker": "Urun\\Models\\Urunler.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Models\\Urunler.cs",
+              "RelativeToolTip": "Urun\\Models\\Urunler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:26:25.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Urun\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Urun\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T13:12:56.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Views\\Urun\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "Urun\\Views\\Urun\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Views\\Urun\\UpdateProduct.cshtml",
+              "RelativeToolTip": "Urun\\Views\\Urun\\UpdateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T21:52:16.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AddProductPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Views\\Urun\\_AddProductPartialView.cshtml",
+              "RelativeDocumentMoniker": "Urun\\Views\\Urun\\_AddProductPartialView.cshtml",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\Views\\Urun\\_AddProductPartialView.cshtml",
+              "RelativeToolTip": "Urun\\Views\\Urun\\_AddProductPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T20:28:10.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Urun\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Gizem G\u00F6lba\u015F\u0131\\source\\repos\\Urun\\Urun\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Urun\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:48:33.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
